@@ -12,6 +12,7 @@ a{
 				display:inline-block;
 				border:1px solid black;
 				color:black;
+	                        margin:auto;
 }
 .header-logo {
   font-size:25px;
