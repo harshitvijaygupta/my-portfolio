@@ -1,0 +1,48 @@
+body{
+    background-color:honeydew;
+}
+.head{
+    text-align:center;
+    background-color:rgb(128, 3, 128);
+    color:yellow;
+    padding:1px;
+    border-bottom:3px solid black;
+}
+h1{
+    font-family:serif;
+}
+span{
+    font-family:'coiny' cursive;
+    font-size:1.5em;
+    font-weight: 800;
+}
+.content img{
+    height:125px;
+    width:100px;
+}
+.content span{
+    float:right;
+    font-size:60px;
+    font-family:'coiny' cursive;
+    margin-right:400px;
+    padding-top:10px;
+    color:rgb(128, 3, 128);
+    border-bottom:2px solid rgba(255, 255, 0, 0.863);
+    border-width:fit-content;
+}
+.content span:hover{
+    color:rgba(255, 255, 0, 0.863);
+    border-color:rgb(128, 3, 128);
+}
+.win1 img{
+    width:310px;
+    height:300px;
+    margin-left:1.5%;
+    padding-bottom:1.2%;
+}
+.win1 h2{
+    color:rgb(128, 3, 128);
+}
+footer{
+    text-align:center;
+}

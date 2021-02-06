@@ -1,0 +1,55 @@
+body{
+    background-color:honeydew;
+}
+h1{
+    font-family:serif;
+    color:white;
+    text-align:center;
+}
+span{
+    font-family:'Coiny', cursive;
+    font-size:1.5em;
+    color:white;
+}
+.ob1{
+    background-color:green;
+    padding:1px;
+    border-bottom:2px solid black;
+}
+h2{
+    font-family:'Coiny', cursive;
+    border-bottom:1.5px solid black;
+}
+.ob3{
+    margin-top:10px;
+    height:2.0em;
+}
+.s1:hover{
+    background-color:green;
+    color:white;
+}
+.s1{
+    background-color:white;
+}
+form{
+    font-family:'Coiny', cursive;
+}
+.ob2{
+    width:20%;
+    display:contents;
+}
+table{
+    margin:auto;
+}
+td{
+    background-color:darkgreen;
+    height:100px;
+    width:100px;
+}
+td:hover{
+    background-color:lightgreen;
+}
+footer{
+    text-align:center;
+    font-family:inherit;
+}
